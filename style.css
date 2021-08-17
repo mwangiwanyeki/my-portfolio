@@ -548,15 +548,15 @@ a {
     cursor: pointer;
     background-position: center;
     background-size: cover;
-    background-image: url('jsprospect.JPG');
+    background-image: url("jsprospect.JPG");
 }
 
 .pyprospect {
-    background-image: url('pyprospect.JPG');
+    background-image: url("pyprospect.JPG");
 }
 
 .recipe {
-    background-image: url('recipe.JPG');
+    background-image: url("recipe.JPG");
 }
 
 #controls {
