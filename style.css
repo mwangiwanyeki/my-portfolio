@@ -547,6 +547,8 @@ a {
     cursor: pointer;
     background-position: center;
     background-size: cover;
+}
+.jsprospect{
     background-image: url("jsprospect.JPG");
 }
 
