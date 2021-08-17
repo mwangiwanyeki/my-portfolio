@@ -31,7 +31,7 @@ body {
     position: relative;
     background-position: 50% 40%;
     background-size: cover;
-    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('.\me.JPG');
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('me.JPG');
 }
 
 li {
@@ -276,7 +276,7 @@ a {
     background-color: white;
     background-position: 50% 37%;
     background-size: cover;
-    background-image: url("./house.jpg");
+    background-image: url("house.jpg");
     border-right: 7px solid white;
     border-bottom: 7px solid white;
 }
@@ -346,15 +346,15 @@ a {
     background-position: center;
     background-size: cover;
     transition: all 1s;
-    background-image: url("./api.jpg");
+    background-image: url("api.jpg");
 }
 
 .jsprojects {
-    background-image: url("./jsprojects.png");
+    background-image: url("jsprojects.png");
 }
 
 .drop {
-    background-image: url("./pages.png");
+    background-image: url("pages.png");
 }
 
 .api:hover,
@@ -548,15 +548,15 @@ a {
     cursor: pointer;
     background-position: center;
     background-size: cover;
-    background-image: url('./jsprospect.jpg');
+    background-image: url('jsprospect.jpg');
 }
 
 .pyprospect {
-    background-image: url('./pyprospect.jpg');
+    background-image: url('pyprospect.jpg');
 }
 
 .recipe {
-    background-image: url('./recipe.jpg');
+    background-image: url('recipe.jpg');
 }
 
 #controls {
